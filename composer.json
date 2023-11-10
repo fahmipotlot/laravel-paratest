@@ -1,11 +1,11 @@
 {
-    "name": "tonysm/laravel-paratest",
+    "name": "fahmipotlot/laravel-paratest",
     "description": "Run your Laravel feature tests in parallel without race conditions.",
     "keywords": [
         "laravel",
         "paratest"
     ],
-    "homepage": "https://github.com/tonysm/laravel-paratest",
+    "homepage": "https://github.com/fahmipotlot/laravel-paratest",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.3|^8.0",
         "brianium/paratest": "^6.1",
-        "illuminate/support": "^8.0"
+        "illuminate/support": "5.5 - 9"
     },
     "require-dev": {
         "orchestra/testbench": "^6.2",
